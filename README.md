@@ -15,5 +15,5 @@ Replace login-form-screenshot.png with your actual project image file
 - *HTML5*
 - *CSS3*
 # Author
-Muhammad Talha Hamid
+Muhammad Talha Hamid <br>
 *Feel free to customize it further to fit your style!*
