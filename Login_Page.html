@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/Login_Page_Style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Modern Login Page (HTML & CSS only)</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <form action="">
+            <h1>Login</h1>
+            <div class="input-box">
+                <input type="text" placeholder="username" id="userIcon" required>
+                <label for="userIcon">
+                    <i class='bx bxs-user' id="userIcon"></i>
+                </label>
+            </div>
+            <div class="input-box">
+                    <input type="password" placeholder="password" id="passIcon" required>
+                <label for="passIcon">
+                    <i class='bx bxs-lock-alt' id="passIcon"></i>
+                </label>
+            </div>
+
+            <div class="remember-forgot">
+                <label for="remember">
+                    <input type="checkbox" id="remember">Remember me
+                </label>
+                <a href="#">Forgot password?</a>
+            </div>
+
+            <button type="submit" class="btn">Login</button>
+
+            <div class="register">
+                <p>Don't have an account? <a href="#">Register</a></p>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
