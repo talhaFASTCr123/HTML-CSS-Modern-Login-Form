@@ -7,13 +7,12 @@ A sleek and responsive login form designed using HTML and CSS, providing a seaml
 > CSS Animations: Smooth transitions and subtle effects enhance the user experience.
 ## Project Preview
 <img src=https://github.com/talhaFASTCr123/HTML-CSS-Modern-Login-Form/blob/main/Images/login_preview.png>
-Replace login-form-screenshot.png with your actual project image file
-### How to Use?
-- Clone the repository or download the zip file.
-- Open the index.html file in your web browser.
+## How to Use?
+> Clone the repository or download the zip file.
+> Open the index.html file in your web browser.
 ## Built With
-- *HTML5*
-- *CSS3*
+> *HTML5*
+> *CSS3*
 # Author
 Muhammad Talha Hamid <br>
 *Feel free to customize it further to fit your style!*
